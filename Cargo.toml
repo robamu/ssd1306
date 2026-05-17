@@ -20,6 +20,7 @@ all-features = true
 
 [dependencies]
 embedded-hal = "1.0.0"
+log = "0.4"
 display-interface = "0.5.0"
 display-interface-i2c = "0.5.0"
 display-interface-spi = "0.5.0"
